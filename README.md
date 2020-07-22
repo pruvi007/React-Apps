@@ -15,6 +15,7 @@ You will also see any lint errors in the console.
 ## APPS
 <details>
   <summary>APP - 1 - Flip Game</summary>
+  This is a simple game of memory. Always a pair of card is flipped, and if those cards have same images below it, they would vanish. You can choose from a variety of categories to play the game. (Will add more features)<br>
   
   ## Highlights
   <ol>
