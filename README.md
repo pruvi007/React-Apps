@@ -27,7 +27,7 @@ You will also see any lint errors in the console.
 
 <details>
   <summary>APP - 2 - SportsStar</summary>
-  A simple sports Stars details app using React HTTPS module(using axios) and Routing. <br>
+  A simple sports Stars details SPA (single page APP) using React HTTPS module(using axios) and Routing. <br>
   
   ## Highlights
   <ol>
