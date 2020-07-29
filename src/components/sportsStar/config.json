@@ -1,0 +1,6 @@
+{
+  "all": "http://localhost:2410/sporticons/stars",
+  "cricket": "http://localhost:2410/sporticons/stars/Cricket",
+  "football": "http://localhost:2410/sporticons/stars/Football",
+  "details": "http://localhost:2410/sporticons/details"
+}
