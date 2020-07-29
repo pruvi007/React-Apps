@@ -25,4 +25,19 @@ You will also see any lint errors in the console.
  
 </details>
 
+<details>
+  <summary>APP - 2 - SportsStar</summary>
+  A simple sports Stars details app using React HTTPS module(using axios) and Routing. <br>
+  
+  ## Highlights
+  <ol>
+  <li><b>All Players</b><br><img width='50%' src='https://github.com/pruvi007/React-Apps/blob/master/readMe_imgs/Screenshot%20from%202020-07-29%2023-03-00.png'/></li>
+  <li><b>Cricket Stars</b><br><img width='50%' src='https://github.com/pruvi007/React-Apps/blob/master/readMe_imgs/Screenshot%20from%202020-07-29%2023-03-03.png'/></li>
+  <li><b>FootBall Stars</b><br><img width='50%' src='https://github.com/pruvi007/React-Apps/blob/master/readMe_imgs/Screenshot%20from%202020-07-29%2023-03-06.png'/></li>
+  <li><b>Player Details</b><br><img width='50%' src='https://github.com/pruvi007/React-Apps/blob/master/readMe_imgs/Screenshot%20from%202020-07-29%2023-03-14.png'/></li>
+  </ol>
+ 
+</details>
+
+
 
