@@ -59,7 +59,7 @@ You will also see any lint errors in the console.
 </details>
 
 <details>
-  <summary>APP - 3 - Book My Show</summary>
+  <summary>APP - 4 - Book My Show</summary>
   <br>
   A Replica app of the Book My Show Portal. I have used some <b>Movies API's + Seat details API</b>. Its a complete flow where a user can book a seat for a show and get to the <b>payment page</b>. The UI is similar to the original Book My Show App.
   
