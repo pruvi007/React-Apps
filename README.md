@@ -15,6 +15,7 @@ You will also see any lint errors in the console.
 ## APPS
 <details>
   <summary>APP - 1 - Flip Game</summary>
+  <br>
   This is a simple game of memory. Always a pair of card is flipped, and if those cards have same images below it, they would vanish. You can choose from a variety of categories to play the game. (Will add more features)<br>
   
   ## Highlights
@@ -27,6 +28,7 @@ You will also see any lint errors in the console.
 
 <details>
   <summary>APP - 2 - SportsStar</summary>
+  <br>
   A simple sports Stars details SPA (single page APP) using React HTTPS module(using axios) and Routing. <br>
   
   ## Highlights
@@ -41,7 +43,8 @@ You will also see any lint errors in the console.
 
 <details>
   <summary>APP - 3 - Car Showroom</summary>
-  A Car Showroom App, with its own Node Server where all the API calls happen. It supports GET, POST, PUT, DELETE operations. Filtering of data based on QueryString is implemented in this App. Some cool animations on API Callback is also present.<br>
+  <br>
+  A Car Showroom App, with its own Node Server where all the API calls happen. It supports <b>GET, POST, PUT, DELETE</b> operations. Filtering of data based on QueryString is implemented in this App. Some cool animations on API Callback is also present.<br>
   
   ## Highlights
   <ol>
@@ -51,6 +54,26 @@ You will also see any lint errors in the console.
   <li><b>Filter - Diesel, Sedan, Price</b><br><img width='50%' src='https://github.com/pruvi007/React-Apps/blob/master/src/components/CarShowroom/images/cars-4.png'/></li>
   <li><b>Add Car Page</b><br><img width='50%' src='https://github.com/pruvi007/React-Apps/blob/master/src/components/CarShowroom/images/cars-5.png'/></li>
   <li><b>Loading Screen while API is returning Response</b><br><img width='50%' src='https://github.com/pruvi007/React-Apps/blob/master/src/components/CarShowroom/images/cars-6.png'/></li>
+  </ol>
+ 
+</details>
+
+<details>
+  <summary>APP - 3 - Book My Show</summary>
+  <br>
+  A Replica app of the Book My Show Portal. I have used some <b>Movies API's + Seat details API</b>. Its a complete flow where a user can book a seat for a show and get to the <b>payment page</b>. The UI is similar to the original Book My Show App.
+  
+  ## Highlights
+  <ol>
+  <li><b>Main Page-1</b><br><img width='50%' src='https://github.com/pruvi007/React-Apps/blob/master/src/components/BookMyShow/images/bms-1.png'/></li>
+  <li><b>Main Page-2</b><br><img width='50%' src='https://github.com/pruvi007/React-Apps/blob/master/src/components/BookMyShow/images/bms-2.png'/></li>
+  <li><b>Main Page-3</b><br><img width='50%' src='https://github.com/pruvi007/React-Apps/blob/master/src/components/BookMyShow/images/bms-3.png'/></li>
+  <li><b>Select Time and Cinema Hall-1</b><br><img width='50%' src='https://github.com/pruvi007/React-Apps/blob/master/src/components/BookMyShow/images/bms-4.png'/></li>
+  <li><b>Select Time and Cinema Hall-1</b><br><img width='50%' src='https://github.com/pruvi007/React-Apps/blob/master/src/components/BookMyShow/images/bms-5.png'/></li>
+  <li><b>Seat Selection-1 (Greyed out Seats are already booked - recieved from API)</b><br><img width='50%' src='https://github.com/pruvi007/React-Apps/blob/master/src/components/BookMyShow/images/bms-6.png'/></li>
+  <li><b>Seat Selection-2</b><br><img width='50%' src='https://github.com/pruvi007/React-Apps/blob/master/src/components/BookMyShow/images/bms-7.png'/></li>
+  <li><b>Seat Selection-3</b><br><img width='50%' src='https://github.com/pruvi007/React-Apps/blob/master/src/components/BookMyShow/images/bms-8.png'/></li>
+  <li><b>Payment Page</b><br><img width='50%' src='https://github.com/pruvi007/React-Apps/blob/master/src/components/BookMyShow/images/bms-9.png'/></li>
   </ol>
  
 </details>
