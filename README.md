@@ -89,7 +89,7 @@ You will also see any lint errors in the console.
   <li><b>Main Page-2(Next and Previous button for Pagination)</b><br><img width='50%' src='https://github.com/pruvi007/React-Apps/blob/master/src/components/Books/images/bok-2.png'/></li>
   <li><b>Filtered Data-1(by Genre)</b><br><img width='50%' src='https://github.com/pruvi007/React-Apps/blob/master/src/components/Books/images/bok-3.png'/></li>
   <li><b>Filtered Data-2(By language and BestSeller)</b><br><img width='50%' src='https://github.com/pruvi007/React-Apps/blob/master/src/components/Books/images/bok-4.png'/></li>
-  <li><b>Filtered Data-3</b><br><img width='50%' src='https://github.com/pruvi007/React-Apps/blob/master/src/components/Books/images/bok-5.png'/></li>
+  <li><b>Filtered Data-3(new Arrival)</b><br><img width='50%' src='https://github.com/pruvi007/React-Apps/blob/master/src/components/Books/images/bok-5.png'/></li>
  
   </ol>
  
