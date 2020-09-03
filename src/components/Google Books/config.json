@@ -1,0 +1,21 @@
+{
+  "map": {
+    "en": "English",
+    "fr": "French",
+    "hi": "Hindi",
+    "": "",
+    "full": "Full Volume",
+    "free-ebooks": "Free Google E-Books",
+    "paid-ebooks": "Paid Google e-books"
+  },
+  "base": "https://www.googleapis.com/books/v1/volumes",
+  "revMap": {
+    "English": "en",
+    "French": "fr",
+    "Hindi": "hi",
+    "": "",
+    "Full Volume": "full",
+    "Free Google E-Books": "free-ebooks",
+    "Paid Google e-books": "paid-ebooks"
+  }
+}
