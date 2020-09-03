@@ -83,6 +83,7 @@ You will also see any lint errors in the console.
   <summary>APP - 5 - Books App</summary>
   <br>
   A Books App where I have used my own Node Server to fetch data via API Calls. This app supports <b>Pagination</b> t view the data. Lots of filter options available in this app. A Uniform dark UI is used.
+  
   ## Highlights
   <ol>
   <li><b>Main Page-1</b><br><img width='50%' src='https://github.com/pruvi007/React-Apps/blob/master/src/components/Books/images/bok-1.png'/></li>
@@ -100,6 +101,7 @@ You will also see any lint errors in the console.
   <summary>APP - 6 - Google Books App</summary>
   <br>
   A similar Books App however, I have used Google Books API to get the data based on search query and filters applied.
+  
   ## Highlights
   <ol>
   <li><b>Search Page</b><br><img width='50%' src='https://github.com/pruvi007/React-Apps/blob/master/src/components/Google%20Books/images/gb-1.png'/></li>
@@ -107,6 +109,26 @@ You will also see any lint errors in the console.
   <li><b>Filtered Data-1</b><br><img width='50%' src='https://github.com/pruvi007/React-Apps/blob/master/src/components/Google%20Books/images/gb-3.png'/></li>
   <li><b>Filtered Data-2</b><br><img width='50%' src='https://github.com/pruvi007/React-Apps/blob/master/src/components/Google%20Books/images/gb-4.png'/></li>
   <li><b>Filtered Data-3</b><br><img width='50%' src='https://github.com/pruvi007/React-Apps/blob/master/src/components/Google%20Books/images/gb-5.png'/></li>
+ 
+  </ol>
+ 
+</details>
+
+
+
+
+<details>
+  <summary>APP - 7 - News App</summary>
+  <br>
+  An App witch fetches news articles from News API. It gets the news based on the search text. It also supports lots of filters. It also supports pagination.
+  
+  ## Highlights
+  <ol>
+  <li><b>Search Results</b><br><img width='50%' src='https://github.com/pruvi007/React-Apps/blob/master/src/components/newsSite/images/news-1.png'/></li>
+  <li><b>Search Results-2</b><br><img width='50%' src='https://github.com/pruvi007/React-Apps/blob/master/src/components/newsSite/images/news-2.png'/></li>
+  <li><b>Main Page-1</b><br><img width='50%' src='https://github.com/pruvi007/React-Apps/blob/master/src/components/newsSite/images/news-3.png'/></li>
+  <li><b>Main Page-2</b><br><img width='50%' src='https://github.com/pruvi007/React-Apps/blob/master/src/components/newsSite/images/news-4.png'/></li>
+  <li><b>Main Page-3</b><br><img width='50%' src='https://github.com/pruvi007/React-Apps/blob/master/src/components/newsSite/images/news-5.png'/></li>
  
   </ol>
  
