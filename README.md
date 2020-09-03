@@ -79,4 +79,21 @@ You will also see any lint errors in the console.
 </details>
 
 
+<details>
+  <summary>APP - 5 - Books App</summary>
+  <br>
+  A Books App where I have used my own Node Server to fetch data via API Calls. This app supports <b>Pagination</b> t view the data. Lots of filter options available in this app. A Uniform dark UI is used.
+  ## Highlights
+  <ol>
+  <li><b>Main Page-1</b><br><img width='50%' src='https://github.com/pruvi007/React-Apps/blob/master/src/components/Books/images/bok-1.png'/></li>
+  <li><b>Main Page-2(Next and Previous button for Pagination)</b><br><img width='50%' src='https://github.com/pruvi007/React-Apps/blob/master/src/components/Books/images/bok-2.png'/></li>
+  <li><b>Filtered Data-1(by Genre)</b><br><img width='50%' src='https://github.com/pruvi007/React-Apps/blob/master/src/components/Books/images/bok-3.png'/></li>
+  <li><b>Filtered Data-2(By language and BestSeller)</b><br><img width='50%' src='https://github.com/pruvi007/React-Apps/blob/master/src/components/Books/images/bok-4.png'/></li>
+  <li><b>Filtered Data-3(new Arrival)</b><br><img width='50%' src='https://github.com/pruvi007/React-Apps/blob/master/src/components/Books/images/bok-5.png'/></li>
+ 
+  </ol>
+ 
+</details>
+
+
 
