@@ -96,4 +96,21 @@ You will also see any lint errors in the console.
 </details>
 
 
+<details>
+  <summary>APP - 6 - Google Books App</summary>
+  <br>
+  A similar Books App however, I have used Google Books API to get the data based on search query and filters applied.
+  ## Highlights
+  <ol>
+  <li><b>Search Page</b><br><img width='50%' src='https://github.com/pruvi007/React-Apps/blob/master/src/components/Google%20Books/images/gb-1.png'/></li>
+  <li><b>Results Page(Next and Previous button for Pagination)</b><br><img width='50%' src='https://github.com/pruvi007/React-Apps/blob/master/src/components/Google%20Books/images/gb-2.png'/></li>
+  <li><b>Filtered Data-1</b><br><img width='50%' src='https://github.com/pruvi007/React-Apps/blob/master/src/components/Google%20Books/images/gb-3.png'/></li>
+  <li><b>Filtered Data-2</b><br><img width='50%' src='https://github.com/pruvi007/React-Apps/blob/master/src/components/Google%20Books/images/gb-4.png'/></li>
+  <li><b>Filtered Data-3</b><br><img width='50%' src='https://github.com/pruvi007/React-Apps/blob/master/src/components/Google%20Books/images/gb-5.png'/></li>
+ 
+  </ol>
+ 
+</details>
+
+
 
