@@ -134,5 +134,34 @@ You will also see any lint errors in the console.
  
 </details>
 
+<details>
+  <summary>APP - 8 - Food Site App</summary>
+  <br>
+  This app is Food Store App. One can add items to cart and continue to checkout page. Firebase is used for Storing and Authentication based on Tokens. It supports all CRUD operations. An attractive UI.
+  
+  ## Highlights
+  
+  <img width='50%' src='https://github.com/pruvi007/React-Apps/blob/master/src/components/foodSiteApp/images/fsa1.png' style='"float":"left";'/><br>
+  <img width='50%' src='https://github.com/pruvi007/React-Apps/blob/master/src/components/foodSiteApp/images/fsa2.png' style='"float":"left";'/>
+  <img width='50%' src='https://github.com/pruvi007/React-Apps/blob/master/src/components/foodSiteApp/images/fsa3.png' style='"float":"left";'/>
+  <img width='50%' src='https://github.com/pruvi007/React-Apps/blob/master/src/components/foodSiteApp/images/fsa4.png' style='"float":"left";'/>
+  <img width='50%' src='https://github.com/pruvi007/React-Apps/blob/master/src/components/foodSiteApp/images/fsa5.png' style='"float":"left";'/>
+  <img width='50%' src='https://github.com/pruvi007/React-Apps/blob/master/src/components/foodSiteApp/images/fsa6.png' style='"float":"left";'/>
+  <img width='50%' src='https://github.com/pruvi007/React-Apps/blob/master/src/components/foodSiteApp/images/fsa7.png' style='"float":"left";'/>
+  <img width='50%' src='https://github.com/pruvi007/React-Apps/blob/master/src/components/foodSiteApp/images/fsa8.png' style='"float":"left";'/>
+  <img width='50%' src='https://github.com/pruvi007/React-Apps/blob/master/src/components/foodSiteApp/images/fsa9.png' style='"float":"left";'/>
+  <img width='50%' src='https://github.com/pruvi007/React-Apps/blob/master/src/components/foodSiteApp/images/fsa10.png' style='"float":"left";'/>
+  <img width='50%' src='https://github.com/pruvi007/React-Apps/blob/master/src/components/foodSiteApp/images/fsa11.png' style='"float":"left";'/>
+  <img width='50%' src='https://github.com/pruvi007/React-Apps/blob/master/src/components/foodSiteApp/images/fsa12.png' style='"float":"left";'/>
+  <img width='50%' src='https://github.com/pruvi007/React-Apps/blob/master/src/components/foodSiteApp/images/fsa13.png' style='"float":"left";'/>
+  <img width='50%' src='https://github.com/pruvi007/React-Apps/blob/master/src/components/foodSiteApp/images/fsa14.png' style='"float":"left";'/>
+  <img width='50%' src='https://github.com/pruvi007/React-Apps/blob/master/src/components/foodSiteApp/images/fsa15.png' style='"float":"left";'/>
+  <img width='50%' src='https://github.com/pruvi007/React-Apps/blob/master/src/components/foodSiteApp/images/fsa16.png' style='"float":"left";'/>
+  <img width='50%' src='https://github.com/pruvi007/React-Apps/blob/master/src/components/foodSiteApp/images/fsa17.png' style='"float":"left";'/>
+  <img width='50%' src='https://github.com/pruvi007/React-Apps/blob/master/src/components/foodSiteApp/images/fsa18.png' style='"float":"left";'/>
+  
+ 
+</details>
+
 
 
