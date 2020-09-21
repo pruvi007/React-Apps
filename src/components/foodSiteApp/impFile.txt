@@ -1,0 +1,52 @@
+web API KEY -> AIzaSyDziDuSIqzrFMIUrazJOqwVI5APPEawZvI
+
+
+IMPORTANT -> FIREBASE API's
+
+For creating a new user go to postman and execute following url
+Url-https://identitytoolkit.googleapis.com/v1/accounts:signUp?key=[WEB_API_KEY]
+Method-POST
+Body-{"email":"abc@test.com","password":"password","returnSecureToken":true
+
+For logging in with the user created
+Url-https://identitytoolkit.googleapis.com/v1/accounts:signInWithPassword?key= [WEB_API_KEY]
+Method-POST
+Body-{"email":"abc@test.com","password":"password","returnSecureToken":true}
+
+
+For logging In 
+url-https://identitytoolkit.googleapis.com/v1/accounts:signInWithPassword?key=[WEB_API_KEY]sample 
+json-{"email":"abc@test.com","password":"password","returnSecureToken":true}
+It will return localId and tokenId
+
+For getting all products.
+url-https://project_url /products.json
+method-GET
+
+
+For posting a new product user must be signed in.
+url-https://project_url/products.json?auth=[idToken]
+method-POST
+localId and idToken have to be replaced by the value you get in above step response
+sample json-{"category": "Vegetables","imgLink": "https://images.pexels.com/photos/209426/pexels-photo-209426.jpeg?auto=compress&cs=tinysrgb&dpr=3&h=750&w=1260","name": "Cauliflower","price": 3.25}
+It will return key name of that particular product
+
+
+For getting all orders.
+url-https://project_url /orders/[localId].json?auth=[idToken]
+method-GET
+
+For posting a new order
+url-https://project_url/orders/[localId]/.json?auth=[idToken]
+method-GET
+sample json-{"address": “A-15","city": "Chicago","items": [{"prodKey": "-LlVG84_E2yICnky-0d5""quantity": 1},{"prodKey": "-LlVGrbzz_pQMAMzgSMn","quantity": 1}],"totalPrice": 7.5}
+Here prodKey is the key of that paricular product
+
+
+For modifying and deleting any product.
+url-https://project_url/products/[prodKey].json?auth=[idToken]" 
+where key is the product key
+method-PUT/DELETE
+sample json(for PUT)-{"category": "Vegetables","imgLink": "https://images.pexels.com/photos/209426/pexels-photo-209426.jpeg?auto=compress&cs=tinysrgb&dpr=3&h=750&w=1260","name": "Cauliflower","price": 3.05}
+
+

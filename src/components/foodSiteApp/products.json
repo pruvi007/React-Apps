@@ -1,0 +1,70 @@
+{
+  "products": {
+    "-LlVdquEdO0A-eKaMjdG": {
+      "category": "Vegetables",
+      "imgLink": "https://images.pexels.com/photos/209426/pexels-photo-209426.jpeg?auto=compress&cs=tinysrgb&dpr=3&h=750&w=1260",
+      "name": "Cauliflower",
+      "price": 3.25
+    },
+    "-LlVf0CKOKXMdW4BJ2qQ": {
+      "category": "Vegetables",
+      "imgLink": "https://images.pexels.com/photos/2325843/pexels-photo-2325843.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "name": "Spinach",
+      "price": 4.25
+    },
+    "-Ll_Gp0YCt8hq5Hyo_SO": {
+      "category": "Bread",
+      "imgLink": "https://images.pexels.com/photos/209291/pexels-photo-209291.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "name": "Fresh Baked Bread",
+      "price": "2.05"
+    },
+    "-Llac2D9wafaIO1DhUkM": {
+      "category": "Vegetables",
+      "imgLink": "https://images.pexels.com/photos/1327838/pexels-photo-1327838.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "name": "Tomatoes",
+      "price": "2.05"
+    },
+    "-LlacD21hG6nZ_tWeG6x": {
+      "category": "Seasoning and Spices",
+      "imgLink": "https://images.pexels.com/photos/1086719/pexels-photo-1086719.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
+      "name": "Red Pepper",
+      "price": "1.75"
+    },
+    "-LladNxErySKPM-wFMc5": {
+      "category": "Seasoning and Spices",
+      "imgLink": "https://images.pexels.com/photos/37641/carrots-basket-vegetables-market-37641.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "name": "Carrots",
+      "price": "3.00"
+    },
+    "-Lladsh3MyrW_w2Wl5-d": {
+      "category": "Dairy",
+      "imgLink": "https://images.pexels.com/photos/799273/pexels-photo-799273.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "name": "Milk",
+      "price": "5.15"
+    },
+    "-LlaeLT-HBQMms3AMAp3": {
+      "category": "Seasoning and Spices",
+      "imgLink": "https://images.pexels.com/photos/87626/paprika-vegetables-green-food-87626.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "name": "Green Pepper",
+      "price": "5.25"
+    },
+    "-LlaeinmVVZSHbocl_2V": {
+      "category": "Vegetables",
+      "imgLink": "https://images.pexels.com/photos/162673/potatoes-vegetables-erdfrucht-bio-162673.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
+      "name": "Potatoes",
+      "price": "3.65"
+    },
+    "-Llaf8iXjbQMpMaa7aVh": {
+      "category": "Seasoning and Spices",
+      "imgLink": "https://images.pexels.com/photos/47051/red-onions-vegetables-vegetable-onion-onion-market-47051.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "name": "Onions",
+      "price": "2.15"
+    },
+    "-LlafcocNiGlvW8Znqr-": {
+      "category": "Vegetables",
+      "imgLink": "https://images.pexels.com/photos/47347/broccoli-vegetable-food-healthy-47347.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
+      "name": "Broccoli",
+      "price": "6.15"
+    }
+  }
+}
